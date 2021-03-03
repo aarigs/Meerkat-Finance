@@ -1,0 +1,24 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IWorker",
+  "sourceName": "contracts/protocol/workers/WorkerConfig.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "lpToken",
+      "outputs": [
+        {
+          "internalType": "contract IUniswapV2Pair",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
